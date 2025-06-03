@@ -1,4 +1,4 @@
-<h1 align="center">⋆.˚ ☾⭒.˚ ✮ ⋆ ˚｡𖦹 ⋆｡°✩ MonochromeRice ✮ ⋆ ˚｡𖦹 ⋆｡°✩ ⋆.˚ ☾⭒.˚</h1>
+<h1 align="center">⋆.˚☾⭒.˚ ✮ ⋆ ˚｡𖦹 ⋆｡°✩ MonochromeRice ✮ ⋆ ˚𖦹 ⋆°✩ ⋆.˚ ☾⭒.˚</h1>
 <table align="center">
   <tr>
     <td colspan="2"><img src="https://github.com/user-attachments/assets/d7fb271d-07dd-4830-af19-91ced39ef8b9"></td>
@@ -99,7 +99,7 @@ To get this Hyprland setup working as intended, you'll need the following softwa
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yion-dev.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thu-ta-naing-83b5222b0/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yion69.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yion69)
 
 </div>
 

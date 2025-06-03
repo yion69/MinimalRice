@@ -1,4 +1,4 @@
-<h1 align="center">⋆.˚☾⭒ ✮ ⋆ ˚｡𖦹 ⋆｡°✩ MonochromeRice ✮ ⋆ ˚𖦹 ⋆°✩ ⋆.˚☾.˚</h1>
+<h1 align="center">⋆.˚☾⭒ ✮ ⋆ ˚｡𖦹 ⋆｡°✩ MinimalRice ✮ ⋆ ˚𖦹 ⋆°✩ ⋆.˚☾.˚</h1>
 <table align="center">
   <tr>
     <td colspan="2"><img src="https://github.com/user-attachments/assets/d7fb271d-07dd-4830-af19-91ced39ef8b9"></td>

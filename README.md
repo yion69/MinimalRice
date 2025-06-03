@@ -89,9 +89,18 @@ To get this Hyprland setup working as intended, you'll need the following softwa
 * Some tools might be available via your distribution's official repositories, while others might require an AUR helper (e.g., `yay`, `paru`) or manual installation (e.g., `pip` for Python scripts).
 
 ---
+<div align="center">
+  <img src="assets/important.gif" alt="Lain_dance">
+</div>
 
-### Very Important Note
+<br>
 
-![image](https://github.com/user-attachments/assets/d4f2037a-33db-40e9-9022-c6509fcd0e74)
+<div align="center">
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yion-dev.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thu-ta-naing-83b5222b0/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yion69.com)
+
+</div>
 
 ---
